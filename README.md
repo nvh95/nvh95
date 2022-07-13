@@ -13,7 +13,14 @@
 - **Email:** viet AT hung.dev
 - **Jest Preview**: [www.jest-preview.com](www.jest-preview.com)
 
-🗣 Interested in meeting me in-person? I am going to attend [Singapore CityJS](https://singapore.cityjsconf.org) on July 29th, 2022 and [Modern Frontends Live!](https://www.modernfrontends.live) on 17-18 November, 2022. Send me a message on [Twitter](https://twitter.com/hung_dev) and I am happy to meet you 🤗.
+## Conferences
+
+- [React Summit](https://reactsummit.com/) (June 17, 2022): Nominee for React Open Source Awards
+- [Singapore CityJS](https://singapore.cityjsconf.org) (July 29th, 2022): Attendant
+- [JSConf Korea](https://2022.jsconf.kr/en) (September 16-17th, 2022): Speaker
+- [Modern Frontends Live!](https://www.modernfrontends.live) (November 17-18, 2022): Speaker
+
+🗣 Send me a message on [Twitter](https://twitter.com/hung_dev) then we can have a cup of coffee together after the event ☕️ 🤗.
 
 ## Stats
 
