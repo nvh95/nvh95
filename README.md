@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=nvh95&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="nvh95's Github stats" />
+
 ## Welcome
 
 👋 Hi. I am Hung. I am currently a full-time open source contributor 🧑‍💻. Previously, I was working at [Got It](https://www.got-it.co/) as a Lead Frontend Developer.
@@ -21,10 +23,6 @@
 - [Modern Frontends Live!](https://www.modernfrontends.live) (November 17-18, 2022): Speaker
 
 🗣 Send me a message on [Twitter](https://twitter.com/hung_dev) then we can have a cup of coffee together after the event ☕️ 🤗.
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=nvh95&show_icons=true&count_private=true&theme=dracula&include_all_commits=true" alt="nvh95's Github stats" />
 
 ## Jobs
 
