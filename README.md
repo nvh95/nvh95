@@ -20,7 +20,7 @@
 
 - [React Summit](https://reactsummit.com/) (June 17, 2022): Nominee for React Open Source Awards
 - [Singapore CityJS](https://singapore.cityjsconf.org) (July 29th, 2022): Attendant
-- [JSConf Korea](https://2022.jsconf.kr/en) (September 16-17th, 2022): Speaker
+- [JSConf Korea](https://2022.jsconf.kr/en/speakers/hung-viet-nguyen) (September 16-17th, 2022): Speaker
 - [Modern Frontends Live!](https://www.modernfrontends.live) (November 17-18, 2022): Speaker
 
 🗣 Send me a message on [Twitter](https://twitter.com/hung_dev) then we can have a cup of coffee together after the event ☕️ 🤗.
