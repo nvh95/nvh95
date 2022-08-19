@@ -27,6 +27,7 @@
 
 ## Press
 
+- [JSParty Podcast #231: Ahoy hoy, JSNation & React Summit!](https://changelog.com/jsparty/231/) Fast-forward to [38:15](https://cdn.changelog.com/uploads/jsparty/231/js-party-231.mp3#t=2295)
 - [Henry: Chàng Lead team Frontend Engineer được đích thân Founder Hùng Trần chiêu mộ](https://vn.got-it.ai/blog/henry-chang-lead-frontend-developer-duoc-dich-than-ceo-hung-tran-chieu-mo)
 
 ## Opportunities
