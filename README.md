@@ -34,6 +34,7 @@
 💼 I am obsessed with Developer Experience (DX) and User Experience (UX). I write dev tools and web applications to make developers and users happier. If you want to hire me for:
 
 - A full-time job.
+- Train your frontend engineers.
 - Consulting for your company's frontend architecture or testing strategies.
 
 📨 Just send me a message on my [Twitter](https://twitter.com/hung_dev) or email me at <viet@hung.dev>. I will reply in 3-5 days. Thanks 🥰.
