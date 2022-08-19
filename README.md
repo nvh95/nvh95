@@ -13,7 +13,7 @@
 - **Twitter:** [twitter.com/hung_dev](https://twitter.com/hung_dev)
 - **Linked In:** [linkedin.com/in/nvh95](https://www.linkedin.com/in/nvh95) (please send a note)
 - **Blog:** [hung.dev](https://hung.dev)
-- **Email:** viet AT hung.dev
+- **Email:** <viet@hung.dev>
 - **Jest Preview**: [www.jest-preview.com](www.jest-preview.com)
 
 ## Conferences
@@ -25,8 +25,17 @@
 
 🗣 Send me a message on [Twitter](https://twitter.com/hung_dev) then we can have a cup of coffee together after the event ☕️ 🤗.
 
-## Jobs
+## Press
 
-💼 I am looking for a full-time job. If you like my work there, I have my Resume available at [hung.dev/cv](https://hung.dev/cv).
+- [Henry: Chàng Lead team Frontend Engineer được đích thân Founder Hùng Trần chiêu mộ](https://vn.got-it.ai/blog/henry-chang-lead-frontend-developer-duoc-dich-than-ceo-hung-tran-chieu-mo)
 
-💪 Just send me a message on my [Twitter](https://twitter.com/hung_dev) and I will reply in a day or two. Thanks 🥰.
+## Opportunities
+
+💼 I am obsessed with Developer Experience (DX) and User Experience (UX). I write dev tools and web applications to make developers and users happier. If you want to hire me for:
+
+- A full-time job.
+- Consulting for your company's frontend architecture or testing strategies.
+
+📨 Just send me a message on my [Twitter](https://twitter.com/hung_dev) or email me at <viet@hung.dev>. I will reply in 3-5 days. Thanks 🥰.
+
+👔 I have my Resume available at [hung.dev/cv](https://hung.dev/cv).
