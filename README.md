@@ -13,7 +13,7 @@
 - **Twitter:** [twitter.com/hung_dev](https://twitter.com/hung_dev)
 - **Linked In:** [linkedin.com/in/nvh95](https://www.linkedin.com/in/nvh95) (please send a note)
 - **Blog:** [hung.dev](https://hung.dev)
-- **Email:** <viet@hung.dev>
+- **Email:** <hi@hung.dev>
 - **Jest Preview**: [www.jest-preview.com](www.jest-preview.com)
 
 ## Conferences
@@ -39,6 +39,6 @@
 - Train your frontend engineers.
 - Consulting for your company's frontend architecture or testing strategies.
 
-📨 Just send me a message on my [Twitter](https://twitter.com/hung_dev) or email me at <viet@hung.dev>. I will reply in 3-5 days. Thanks 🥰.
+📨 Just send me a message on my [Twitter](https://twitter.com/hung_dev) or email me at <hi@hung.dev>. I will reply in 3-5 days. Thanks 🥰.
 
 👔 I have my Resume available at [hung.dev/cv](https://hung.dev/cv).
