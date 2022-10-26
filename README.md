@@ -43,4 +43,4 @@
 
 📨 Just send me a message on my [Twitter](https://twitter.com/hung_dev) or email me at <hi@hung.dev>. I will reply in 3-5 days. Thanks 🥰.
 
-👔 I have my Resume available at [hung.dev/cv](https://hung.dev/cv).
+👔 I have my Resume available at [cv.hung.dev](https://cv.hung.dev).
