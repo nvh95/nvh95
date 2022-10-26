@@ -4,7 +4,7 @@
 
 👋 Hi. I am Hung. I am currently a full-time open source contributor 🧑‍💻. Previously, I was working at [Got It](https://www.got-it.co/) as a Lead Frontend Developer.
 
-⚡️ I am obsessed with Developer Experience (DX), so I created [jest-preview](https://github.com/nvh95/jest-preview) 🖼 to help frontend engineers to write and debug Jest tests effortlessly. If you are a frontend engineer, [check it out](https://github.com/nvh95/jest-preview). I promise you will love it 😍!
+⚡️ I am obsessed with Developer Experience (DX), so I created [jest-preview](https://github.com/nvh95/jest-preview) and [vitest-preview](https://github.com/nvh95/vitest-preview) 🖼🛠⚡️ to help frontend engineers to write and debug frontend tests effortlessly. If you are a frontend engineer, [check it out](https://github.com/nvh95/jest-preview). I promise you will love it 😍!
 
 ## Get in touch
 
@@ -22,7 +22,9 @@
 - [Singapore CityJS](https://singapore.cityjsconf.org) (July 29th, 2022): Attendant
 - [JSConf Korea](https://2022.jsconf.kr/en/speakers/hung-viet-nguyen) (September 16-17th, 2022): Speaker
   - Slides: <https://jsconf.hung.dev>
-- [React Advanced London](https://reactadvanced.com) (October 21,24, 2022): Speaker
+- [React Advanced London](https://reactadvanced.com) (October 21&24, 2022): Speaker
+  - Slides: <https://reactadvanced.hung.dev>
+  - Recording: <https://portal.gitnation.org/contents/how-to-build-your-own-open-source-project>
 
 🗣 Send me a message on [Twitter](https://twitter.com/hung_dev) then we can have a cup of coffee together after the event ☕️ 🤗.
 
