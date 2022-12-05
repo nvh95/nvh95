@@ -22,6 +22,7 @@
 - [Singapore CityJS](https://singapore.cityjsconf.org) (July 29th, 2022): Attendant
 - [JSConf Korea](https://2022.jsconf.kr/en/speakers/hung-viet-nguyen) (September 16-17th, 2022): Speaker
   - Slides: <https://jsconf.hung.dev>
+  - Recoding: <https://www.youtube.com/watch?v=1CZjE3cDLbY>
 - [React Advanced London](https://reactadvanced.com) (October 21&24, 2022): Speaker
   - Slides: <https://reactadvanced.hung.dev>
   - Recording: <https://portal.gitnation.org/contents/how-to-build-your-own-open-source-project>
