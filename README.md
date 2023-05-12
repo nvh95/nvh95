@@ -2,7 +2,7 @@
 
 ## Welcome
 
-👋 Hi. I am Hung. I am an open source enthusiast 🧑‍💻. Currently, I am working at [Filum](https://filum.ai/) as Senior Frontend Engineer. Previously, I was working at [Got It](https://www.got-it.co/) as a Lead Frontend Developer.
+👋 Hi. I am Hung. I am an open source enthusiast 🧑‍💻. Currently, I am working at [Filum](https://filum.ai/en) as Senior Frontend Engineer. Previously, I was working at [Got It](https://www.got-it.co/) as a Lead Frontend Developer.
 
 ⚡️ I am obsessed with Developer Experience (DX), so I created [jest-preview](https://github.com/nvh95/jest-preview) and [vitest-preview](https://github.com/nvh95/vitest-preview) 🖼🛠⚡️ to help frontend engineers to write and debug frontend tests effortlessly. If you are a frontend engineer, [check it out](https://github.com/nvh95/jest-preview). I promise you will love it 😍!
 
