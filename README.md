@@ -34,6 +34,9 @@
 - [Henry: Chàng Lead team Frontend Engineer được đích thân Founder Hùng Trần chiêu mộ](https://vn.got-it.ai/blog/henry-chang-lead-frontend-developer-duoc-dich-than-ceo-hung-tran-chieu-mo)
 - [Don’t be afraid to face fear and discomfort. That’s when we grow to become better](https://techiestory.net/post/54-hung-nguyen)
 
+## Perks
+- [Codecrafters 40% off - 1 year plan](https://app.codecrafters.io/join?via=nvh95): A platform help to level up your engineering skills by recreating tools like Git, Redis, and SQLite from scratch.
+
 ## Opportunities
 
 💼 I am obsessed with Developer Experience (DX) and User Experience (UX). I write dev tools and web applications to make developers and users happier. If you want to hire me for:
